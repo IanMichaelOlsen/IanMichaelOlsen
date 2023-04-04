@@ -10,7 +10,7 @@ For complete details about me, visit my website https://coffeeafterdark.com
 
 ![IanMichaelOlsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMichaelOlsen&show_icons=true&theme=city_lights)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMichaelOlsen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMichaelOlsen&layout=compact&langs_count=5)
 
 <!--
 **IanMichaelOlsen/IanMichaelOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
