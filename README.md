@@ -54,5 +54,3 @@ I am Ian Olsen, an aspiring software developer and artificial intelligence engin
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitaOcean" alt="DigitaOcean" width="50" height="50"/>&nbsp;
-
-google-site-verification: googlee9f1483af541c2f4.html
