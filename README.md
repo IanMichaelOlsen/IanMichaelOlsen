@@ -78,36 +78,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/IanMichaelOlsen/dallasprecision">dallasprecision</a></h3>
-      <p>Dallas Precision site project. Useful as a client-facing web build and business-focused portfolio piece.</p>
-      <p>
-        <img alt="Website" src="https://img.shields.io/badge/website-111827?style=flat-square" />
-        <img alt="Client project" src="https://img.shields.io/badge/client_project-111827?style=flat-square" />
-        <img alt="Tech stack to document" src="https://img.shields.io/badge/tech_stack-TBD-6b7280?style=flat-square" />
-      </p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/IanMichaelOlsen/dallasprecision?style=flat-square&label=stars&color=facc15" />
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/IanMichaelOlsen/dallasprecision?style=flat-square&label=last%20signal&color=7dd3fc" />
-        <a href="https://github.com/IanMichaelOlsen/dallasprecision"><img alt="Repository" src="https://img.shields.io/badge/repo-open-22c55e?style=flat-square&logo=github" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/IanMichaelOlsen/ML-DrMohsin">ML-DrMohsin</a></h3>
-      <p>Machine learning project focused on exploration and classification of blood image data.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
-        <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626" />
-        <img alt="Machine learning" src="https://img.shields.io/badge/machine_learning-111827?style=flat-square" />
-      </p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/IanMichaelOlsen/ML-DrMohsin?style=flat-square&label=stars&color=facc15" />
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/IanMichaelOlsen/ML-DrMohsin?style=flat-square&label=last%20signal&color=7dd3fc" />
-        <a href="https://github.com/IanMichaelOlsen/ML-DrMohsin"><img alt="Repository" src="https://img.shields.io/badge/repo-open-22c55e?style=flat-square&logo=github" /></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ## Tooling Bay
